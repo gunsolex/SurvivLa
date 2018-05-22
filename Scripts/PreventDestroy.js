@@ -1,0 +1,5 @@
+﻿function Awake()
+{
+	DontDestroyOnLoad(this);
+	
+}
